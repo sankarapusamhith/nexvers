@@ -2041,6 +2041,7 @@ border: 0;
 .owl-item .image-testimonial-small {
   margin: 0 auto 20px;
   width: auto!important;
+  height: 20vh;
 } 
 
 video {
